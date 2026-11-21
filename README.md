@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/banner.png" alt="megalodon banner" width="100%">
+</p>
+
 # megalodon
 
 so basically wireshark in your terminal, but actually fast and doesn't lag your machine.
